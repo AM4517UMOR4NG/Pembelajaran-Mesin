@@ -1,1 +1,1 @@
-A space for saving for saving my mechanical lesson.
+Repository for saving my mechanical lesson.
