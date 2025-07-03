@@ -57,7 +57,7 @@
 ### 🏃‍♂️ Setup in 3 Steps
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/AM4517UMOR4NG/Pembelajaran-Mesin.git>
 cd "Mechanical Lesson"
 
 # 2. Create virtual environment (recommended)
