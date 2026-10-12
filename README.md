@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Course Repository
+# Machine Learning Course Repository
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python" alt="Python 3.7+">
@@ -16,13 +16,13 @@
 
 ---
 
-## 🌟 What You'll Find Here
+## What You'll Find Here
 
 <table>
 <tr>
 <td width="50%">
 
-### 📚 **Learning Path**
+### **Learning Path**
 - **8 Progressive Assignments** from basics to advanced
 - **Mid-term Project**: Customer Segmentation
 - **Final Project**: IMDB Sentiment Analysis
@@ -32,7 +32,7 @@
 </td>
 <td width="50%">
 
-### 🛠️ **Technical Skills**
+### **Technical Skills**
 - **Data Preprocessing** & Feature Engineering
 - **Clustering Algorithms** (K-Means, Hierarchical, DBSCAN)
 - **Classification** (SVM, Random Forest, Naive Bayes)
@@ -66,7 +66,7 @@
 
 
 
-## 🐐 The GOAT
+## The GOAT
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣶⣶⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
